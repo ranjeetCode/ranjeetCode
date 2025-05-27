@@ -1,6 +1,6 @@
 <!-- AI Neuron Network Animation Banner -->
 <p align="center">
-  <img src="./LSsT.gif" alt="AI Neuron Network Animation" style="width:100%; height:25em; display:block;margin:0 auto;"/>
+  <img src="./LSsT.gif" alt="AI Neuron Network Animation" width="100%" style="max-width:900px; height:auto; display:block;"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Ranjeet Kumar!</h1>
