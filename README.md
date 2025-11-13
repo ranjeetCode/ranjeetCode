@@ -73,6 +73,16 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="120">
+      <img src="https://www.python.org/static/community_logos/python-logo.png" width="40"/><br>Python
+    </td>
+    <td align="center" width="120"></td>
+    <td align="center" width="120"></td>
+    <td align="center" width="120"></td>
+    <td align="center" width="120"></td>
+    <td align="center" width="120"></td>
+  </tr>
+  <tr>
     <td colspan="6" align="center"><b>Database</b></td>
   </tr>
   <tr>
@@ -85,7 +95,9 @@
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40"/><br>MySQL
     </td>
-    <td align="center" width="120"></td>
+    <td align="center" width="120">
+      <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40"/><br>PostgreSQL
+    </td>
     <td align="center" width="120"></td>
     <td align="center" width="120"></td>
   </tr>
@@ -137,9 +149,15 @@
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/48/000000/robot-2.png" width="40"/><br>Copilot, RAG, Fine-tuning
     </td>
-    <td align="center" width="120"></td>
-    <td align="center" width="120"></td>
-    <td align="center" width="120"></td>
+    <td align="center" width="120">
+      <img src="https://cloud.google.com/dialogflow/images/dialogflow-logos/dialogflow-logo.png" width="40"/><br>Google Dialogflow CX
+    </td>
+    <td align="center" width="120">
+      <img src="https://developer.android.com/images/brand/Android_Robot.png" width="40"/><br>Google ADK
+    </td>
+    <td align="center" width="120">
+      <img src="https://cloud.google.com/images/products/logos/cloud-dataflow.svg" width="40"/><br>Data Pipeline for AI Model
+    </td>
   </tr>
 </table>
 
